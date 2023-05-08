@@ -3,7 +3,9 @@
 # Sports Scoreboard Overview
 
 This scoreboard is designed for sporting events and is based on a match between two teams.
+
 When the program is launched, two windows will open: the basic information window and the scoreboard window.
+
 In the input window, you can enter the name of the competition, team names, game time, etc. In addition, 
 you can control the stopping and restarting of the game time according to the referee's signal during the game, 
 and the application of attack time according to the transition between offense and defense.
