@@ -1,4 +1,4 @@
-# scoreboard
+# Scoreboard
 
 # Sports Scoreboard Overview
 
