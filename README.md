@@ -23,4 +23,6 @@ For those who can help, I would like to briefly describe the features I would li
    (currently implemented as fuzzy-switching-start).
 6. a long buzzer should sound at the end of the game, and a short one-second backup buzzer should sound 10 seconds before the end.
 7. We will try it out in a practice game and add any necessary improvements.
+
 I would be grateful for your help.
+Download it, give it a try, and let us know what you think we can improve.
