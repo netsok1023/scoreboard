@@ -24,5 +24,5 @@ For those who can help, I would like to briefly describe the features I would li
 6. a long buzzer should sound at the end of the game, and a short one-second backup buzzer should sound 10 seconds before the end.
 7. We will try it out in a practice game and add any necessary improvements.
 
-I would be grateful for your help.
-Download it, give it a try, and let us know what you think we can improve.
+We need your help.
+We would be very grateful if coding experts could provide us with any code values that need to be corrected or enhanced via requests.
